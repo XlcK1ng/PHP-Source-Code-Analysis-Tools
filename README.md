@@ -2,7 +2,8 @@
 Scripting Ruby
 
 # Download:
-https://sourceforge.net/projects/rips-scanner/files/ (Informations: rips-scanner.sourceforge.net)
+https://rips-scanner.sourceforge.net/
+https://www.apachefriends.org/ (example)
 
 # Ruby Interpreter: 
 https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p551.exe
