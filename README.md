@@ -2,7 +2,7 @@
 Scripting Ruby
 
 # Download:
-https://rips-scanner.sourceforge.net/ & https://www.apachefriends.org/
+https://www.apachefriends.org/
 
 # Ruby Interpreter: 
 https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p551.exe
