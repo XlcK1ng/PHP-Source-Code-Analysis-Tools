@@ -2,8 +2,7 @@
 Scripting Ruby
 
 # Download:
-https://rips-scanner.sourceforge.net/
-https://www.apachefriends.org/ (example)
+https://rips-scanner.sourceforge.net/ & https://www.apachefriends.org/
 
 # Ruby Interpreter: 
 https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p551.exe
@@ -11,6 +10,6 @@ https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p551.exe
 gem install mechanize -v 2.7.3
 
 # Compatibility With:
-Zed Attack Proxy: https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project
-Burp Suite: https://portswigger.net/burp/
-Acunetix: https://www.acunetix.com/
+Zed Attack Proxy: https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project |
+Burp Suite: https://portswigger.net/burp/ |
+Acunetix: https://www.acunetix.com/ |
