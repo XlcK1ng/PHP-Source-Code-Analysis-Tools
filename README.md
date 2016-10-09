@@ -12,4 +12,4 @@ gem install mechanize -v 2.7.3
 # Compatibility With:
 Zed Attack Proxy: https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project |
 Burp Suite: https://portswigger.net/burp/ |
-Acunetix: https://www.acunetix.com/ |
+Acunetix: https://www.acunetix.com/
